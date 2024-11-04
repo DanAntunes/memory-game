@@ -1,0 +1,26 @@
+@import url("./reset.css");
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #010101;
+  color: white;
+}
+
+.container{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  background: linear-gradient(
+    325deg,#d8d8dd 0%,
+    #fff198 30%, 
+    #5010 70%, 
+    #03001e 100%
+  );
+  padding: 40px 60px;
+}
