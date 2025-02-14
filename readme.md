@@ -43,3 +43,6 @@ Bem-vindo ao **Jogo da Memória Emoji**! Um clássico jogo de memória com temá
    - Manipulação do DOM
    - Sistema de aleatorização
  - **Google Fonts**: JetBrains Mono para tipografia técnica
+
+## 🎮 Demonstração ao Vivo
+[Clique aqui para jogar online ](https://danantunes.github.io/memory-game/)
