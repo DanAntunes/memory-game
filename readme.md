@@ -31,3 +31,15 @@ Bem-vindo ao **Jogo da Memória Emoji**! Um clássico jogo de memória com temá
 - Se formar um par, as cartas permanecem visíveis
 - Se não forem iguais, elas viram novamente
 - Encontre todos os pares para vencer!
+
+## 🔧 Tecnologias Utilizadas
+- **HTML5**: Estrutura semântica do jogo
+- **CSS3**:
+  - Gradientes animados
+  - Transformações 3D
+  - Design responsivo
+- JavaScript Vanilla:
+   - Lógica do jogo
+   - Manipulação do DOM
+   - Sistema de aleatorização
+ - Google Fonts: JetBrains Mono para tipografia técnica
