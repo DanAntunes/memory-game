@@ -72,3 +72,7 @@ const emojis = [
   width: 120px; /* Tamanho das cartas */
 }
 ```
+## ✉️ Contato
+[![Outlook Badge](https://img.shields.io/badge/-danilo--258%40hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:danilo-258@hotmail.com)](mailto:danilo-258@hotmail.com)
+
+[![GitHub](https://img.shields.io/github/followers/DanAntunes?label=follow&style=social)](https://github.com/DanAntunes)
