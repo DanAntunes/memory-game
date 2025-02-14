@@ -22,3 +22,12 @@ Bem-vindo ao **Jogo da Memória Emoji**! Um clássico jogo de memória com temá
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/seu-usuario/jogo-da-memoria.git
+   ```
+2. Abra o arquivo ``index.html`` no navegador.
+
+## Regras do Jogo
+
+- Clique em duas cartas para revelar seus emojis
+- Se formar um par, as cartas permanecem visíveis
+- Se não forem iguais, elas viram novamente
+- Encontre todos os pares para vencer!
