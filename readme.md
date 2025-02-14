@@ -46,3 +46,29 @@ Bem-vindo ao **Jogo da Memória Emoji**! Um clássico jogo de memória com temá
 
 ## 🎮 Demonstração ao Vivo
 [Clique aqui para jogar online ](https://danantunes.github.io/memory-game/)
+
+## 🛠️ Personalização
+
+**Alterar Emojis**
+
+```Js
+// engine.js
+const emojis = [
+  "🔥", "🔥",
+  "🌟", "🌟",
+  // Adicione novos pares
+];
+```
+
+**Modificar Estilos**
+
+```CSS
+/* main.css */
+.container {
+  background: linear-gradient(...); /* Altere o gradiente */
+}
+
+.item {
+  width: 120px; /* Tamanho das cartas */
+}
+```
