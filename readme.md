@@ -38,8 +38,8 @@ Bem-vindo ao **Jogo da Memória Emoji**! Um clássico jogo de memória com temá
   - Gradientes animados
   - Transformações 3D
   - Design responsivo
-- JavaScript Vanilla:
+- **JavaScript Vanilla**:
    - Lógica do jogo
    - Manipulação do DOM
    - Sistema de aleatorização
- - Google Fonts: JetBrains Mono para tipografia técnica
+ - **Google Fonts**: JetBrains Mono para tipografia técnica
