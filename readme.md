@@ -6,7 +6,7 @@ Bem-vindo ao **Jogo da Memória Emoji**! Um clássico jogo de memória com temá
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-![Preview do Jogo](./preview.gif) <!-- Adicione uma imagem real posteriormente -->
+![Preview do Jogo](./public/image/gameplay.gif)
 
 ## ✨ Funcionalidades Principais
 
