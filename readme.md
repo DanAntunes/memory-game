@@ -21,7 +21,7 @@ Bem-vindo ao **Jogo da Memória Emoji**! Um clássico jogo de memória com temá
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/jogo-da-memoria.git
+   git clone https://github.com/DanAntunes/memory-game
    ```
 2. Abra o arquivo ``index.html`` no navegador.
 
