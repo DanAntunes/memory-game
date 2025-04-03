@@ -45,11 +45,17 @@ h2{
   cursor: pointer;
   font-weight: 600;
   box-shadow: 5px 5px 5px rgba(0, 0, 0 , 900);
+  transition: ease-in-out .2s;
 }
 
 .reset:focus{
   color: #fcfafa;
   background-color: #020202;
+}
+
+.reset:hover{
+  font-size: 1.7em;
+  transition: ease-in-out .2s;
 }
 
 .game {
