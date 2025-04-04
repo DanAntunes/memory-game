@@ -4,7 +4,7 @@
   color: #000;
   background: #fff;
   border: none;
-  font-size: 1.5em;
+  font-size: 1.4em;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   cursor: pointer;
@@ -19,6 +19,8 @@
 }
 
 .reset:hover{
-  font-size: 1.7em;
+  background-color: #141414;
   transition: ease-in-out .2s;
+  color: #fff;
+  font-size: 1.5em;
 }
