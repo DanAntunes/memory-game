@@ -1,0 +1,24 @@
+.reset{
+  padding: 15px 20px;
+  width: 100%;
+  color: #000;
+  background: #fff;
+  border: none;
+  font-size: 1.5em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: 600;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0 , 900);
+  transition: ease-in-out .2s;
+}
+
+.reset:focus{
+  color: #fcfafa;
+  background-color: #020202;
+}
+
+.reset:hover{
+  font-size: 1.7em;
+  transition: ease-in-out .2s;
+}
