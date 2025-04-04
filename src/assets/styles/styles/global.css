@@ -3,7 +3,8 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #010101;
+  background: #141414;
+  background-image: url(../../image/background/bg.png);
   color: white;
 }
 
@@ -14,11 +15,5 @@ body{
   justify-content: center;
   align-items: center;
   gap: 30px;
-  background: linear-gradient(
-    325deg,#d8d8dd 0%,
-    #fff198 30%, 
-    #5010 70%, 
-    #03001e 100%
-  );
   padding: 40px 60px;
 }
