@@ -1,0 +1,4 @@
+.boxOpen::after,
+.boxMatch::after{
+  transform: rotateY(180deg);
+}
